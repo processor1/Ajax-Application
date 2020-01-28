@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 27, 2020, 1:48:42 PM
+    Author     : Mobile Apps
+*/
+
+body{
+    margin-left:200px;
+    margin-right: 200px;
+    font-size:19px;
+    font-family: monospace;
+
+}
+
+td,tr{
+    padding:10px;
+
+}
+th{
+    background-color:black;
+    color:white;
+    border:thin solid orange;
+    padding:10px;
+    border-radius: 4px;
+}
+
+#content{
+    padding:10px;
+    border:thins solid rgb(100,20,10);
+    border-radius: 4px;
+    background-color:black;
+    color:white;
+}
